@@ -1,0 +1,22 @@
+{
+  "name": "speechanalyzersampleapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "^1.10.0",
+    "pug": "2.0.0-beta11",
+    "request": "^2.88.2",
+    "express-fileupload": "^1.2.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0",
+    "lodash": "^4.17.20",
+    "querystring": "^0.2.0"
+  }
+}
